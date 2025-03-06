@@ -1,1 +1,5 @@
-"Original content" 
+         HEAD
+"Content from branch B" 
+
+"Content from branch A" 
+         branchA
